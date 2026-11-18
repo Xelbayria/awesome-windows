@@ -159,6 +159,7 @@
 ### Documents
 
 - [FreeOffice](http://www.freeoffice.com/en/) - A complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][Freeware Icon]
+- [Leafable](https://hidaydream.cloud/leafable/en/) - Free Windows app for merging, reordering, splitting, and compressing PDF files locally. ![Freeware][Freeware Icon]
 - [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite, and a successor to _OpenOffice_. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 - [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
